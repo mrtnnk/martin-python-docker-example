@@ -25,3 +25,6 @@ app returning a friendly Hello page.
 If you use docker machine (on Mac OS X or Windows)
 please consult the docker inspect result to get the IP of the host machine
 (see `make inspect`).
+
+## Author
+Martin Nikolov
