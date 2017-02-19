@@ -1,5 +1,5 @@
 FROM python:3-alpine
-MAINTAINER Niko Schmuck <niko@nava.de> 
+MAINTAINER Martin Nikolov
 
 ARG BUILD_DATE
 ARG VCS_REF
@@ -7,7 +7,7 @@ ARG VCS_REF
 # Set labels (see https://microbadger.com/labels)
 LABEL org.label-schema.build-date=$BUILD_DATE \
       org.label-schema.vcs-ref=$VCS_REF \
-      org.label-schema.vcs-url="https://github.com/nikos/python3-alpine-flask-docker"
+      org.label-schema.vcs-url="https://github.com/mrtnnk/martin-python-docker-example"
 
 
 RUN mkdir -p /usr/src/app

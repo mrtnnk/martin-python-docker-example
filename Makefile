@@ -1,6 +1,6 @@
 .PHONY: clean build run stop inspect
 
-IMAGE_NAME = nikos/alpine-python3-flask
+IMAGE_NAME = mrtnnk/martin-python-docker-example
 CONTAINER_NAME = flask-demoapp
 
 build:

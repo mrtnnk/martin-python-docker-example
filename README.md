@@ -1,4 +1,4 @@
-# python3-alpine-flask-docker [![Build Status](https://travis-ci.org/nikos/python3-alpine-flask-docker.svg?branch=master)](https://travis-ci.org/nikos/python3-alpine-flask-docker)  [![Image Info](https://images.microbadger.com/badges/image/nikos/alpine-python3-flask.svg)](https://microbadger.com/images/nikos/alpine-python3-flask)
+# martin-python-docker-example
 
 Sample Docker container for a Python 3 Flask based application with minimal footprint.
 
